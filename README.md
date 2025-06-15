@@ -47,8 +47,8 @@ Each decision affects whether they proceed or lose the game.
   ## 🔗 Project Links
   
 - [100 Days of Code Course](https://www.udemy.com/course/100-days-of-code/)
-- Repository: [https://github.com/Kareemtamer159/tip-calculator](https://github.com/Kareemtamer159/Tresure_Hunt)
-  
+- Repository: https://github.com/Kareemtamer159/Tresure_Hunt
+
 ## 👨‍💻 Author
 
 Your Name
